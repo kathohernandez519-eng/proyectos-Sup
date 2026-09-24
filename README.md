@@ -1,2 +1,3 @@
-# proyectos-Sup
-Los tres proyectos de Superate
+# BiteX
+Proyecto BiteX 
+La carpeta se llama Nueva Capeta ahi pueden encontrar la app de Bitex
